@@ -49,6 +49,7 @@ plt.xlabel('Feature 1 (e.g. Income)')
 plt.ylabel('Feature 2 (e.g. Spending Score)')
 plt.legend()
 plt.show()
+//like what_is_wrong_me_why_the_hell_i_forget_everyhting
 
 
 
